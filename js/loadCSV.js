@@ -30,7 +30,7 @@ function draw() {
   text(table.getRowCount() + ' contributions', startX, 50)
   fill(120)
   textSize(14)
-  text('Every square looks the same. Hover one to see what it cost.', startX, 90)
+  text('Every square looks the same. Hover to see what is lost.', startX, 90)
 
   for (let i = 0; i < table.getRowCount(); i++){
     let x = startX + (i % perRow) * gap
