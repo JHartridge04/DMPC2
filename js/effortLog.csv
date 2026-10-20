@@ -1,0 +1,14 @@
+date,time,commit,message,files_changed,lines_added,lines_deleted,hours_worked,attempts,searches,energy,gave_up,note
+2026-08-27,11:07,8ecc272,"Initial commit",1,1,0,2,2,0,low,no,
+2026-08-27,11:10,ba9a695,"Initial commit",1664,814481,0,1,0,0,low,no,
+2026-08-27,11:11,9f7ce8e,"Remove node_modules, add .gitignore",1661,1,814185,0,1,0,low,no,
+2026-08-27,11:11,635327b,"Merge branch 'main' of https://github.com/JHartridge04/Personal-Data-Visualization",0,0,0,0,0,0,low,no,
+2026-08-30,20:47,32c39a5,"interactive elements",1,135,57,3,6,2,medium,no,
+2026-08-30,20:55,ce8bc0a,"Update p5.js script source",1,1,1,2,0,0,low,no, very annoying
+2026-08-30,21:04,d35bb60,"fix",2,2,2,1,1,1,low,no,
+2026-08-30,21:05,d68ac94,"Merge branch 'main' of https://github.com/JHartridge04/Personal-Data-Visualization",0,0,0,0,0,0,low,no,
+2026-08-30,21:05,f48289f,"fixx",1,1,1,0,1,1,low,no,
+2026-09-01,12:08,f7180cc,"image and scale changes",2,55,44,4,8,0,high,no,
+2026-09-14,18:30,3e33c47,"functions",5,202,4,2,12,1,low,no, Slightly altered from first sketch 
+2026-10-06,21:17,1041806,"interactive website",18,520,2,20,10,4,high,no, Extremely tedious and annoying
+2026-10-06,21:33,4ad9b3b,"clean up",2,79,120,5,2,1,medium,no, Tedious but necessary
